@@ -14,3 +14,6 @@ It relies on Raphael for handling SVG and animations.
 
 For Docs, Examples, and everything else see:
 http://fperucic.github.io/treant-js
+
+----------------------------------
+ADDED BOWER.JSON FOR BOWER PURPOSE
