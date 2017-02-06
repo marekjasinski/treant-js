@@ -1,0 +1,11 @@
+{
+    "name": "Treant",
+    "version": "1.0.1",
+    "main": [
+      "./Treant.js",
+      "./Treant.css",
+      "./vendor/raphael.js",
+      "./vendor/perfect-scrollbar/perfect-scrollbar.js",
+      "./vendor/perfect-scrollbar/perfect-scrollbar.css"
+    ]
+}
